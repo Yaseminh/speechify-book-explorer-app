@@ -1,7 +1,8 @@
 # 📚 Book Explorer App
-<p align="center">
-  <img src="Screenshot%202025-11-02%20214523_android.png" width="320" />
+<p align="center" style="background-color:black; padding:10px;">
+  <img src="Screenshot%202025-11-02%20214523_android.png" width="800" style="border-radius:12px; display:block; margin:auto;"/>
 </p>
+
 
 A simple **Jetpack Compose** app built with **Hilt**, **Navigation**, and **Coil** to explore and view book details.
 
