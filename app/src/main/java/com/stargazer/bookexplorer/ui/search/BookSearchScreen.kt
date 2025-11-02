@@ -11,7 +11,7 @@ import androidx.hilt.navigation.compose.hiltViewModel
 import com.stargazer.bookexplorer.ui.components.BookRow
 import com.stargazer.bookexplorer.ui.components.EmptyState
 
-@OptIn(ExperimentalMaterial3Api::class) // ✅ eklendi: TopAppBar, OutlinedTextField vs. için
+@OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun BookSearchScreen(
     onBack: () -> Unit,

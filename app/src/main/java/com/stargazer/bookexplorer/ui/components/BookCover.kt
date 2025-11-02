@@ -14,7 +14,7 @@ fun BookCover(url: String, modifier: Modifier = Modifier) {
         contentDescription = null,
         modifier = modifier
             .fillMaxWidth()
-            .aspectRatio(3f / 4f), // README: 3:4 oran
+            .aspectRatio(3f / 4f),
         contentScale = ContentScale.Crop
     )
 }
